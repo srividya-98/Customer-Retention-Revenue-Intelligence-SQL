@@ -1,0 +1,2 @@
+# DuckDB analytics project
+duckdb>=1.0.0
