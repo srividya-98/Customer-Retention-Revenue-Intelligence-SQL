@@ -10,14 +10,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Put your Kaggle CSV path in `analytics.py` (variable `CSV_PATH`).
+1. Data from https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering
 2. Run:
 
-```bash
-python analytics.py
-```
-
-Or open `analytics.ipynb` in Cursor/VS Code and run the cells.
 
 ## What the script does
 
